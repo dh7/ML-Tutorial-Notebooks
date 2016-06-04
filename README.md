@@ -1,6 +1,10 @@
 # ML-Tutorial-Notebooks
 Machine learning tutorial from scratch.
 
+This depos contains some tutorials for beginners who want to understand machine learning by reading some code.
+
+You may want to read the in the following order:
+
 ## Minimal character-level Vanilla RNN model.
 
 RNN stand for "Recurent Neural Network".  
