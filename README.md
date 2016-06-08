@@ -22,4 +22,10 @@ All the NN magic in 112 lines of code, no need to understand any dependency. Eve
 You should read his post first!  
 
 His [code](https://github.com/joelgrus/fizz-buzz-tensorflow/blob/master/fizz_buzz.py) try to play the Fizz Buzz game by using machine learning. 
+
+# Temperature
+
+Temperature is a concept that is used when you need to generate a random number from a probability vector but want to over empasis samples that have the highest probability.
+
+[This notebook](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/Temperature.ipynb) show the effects in practice.
  
