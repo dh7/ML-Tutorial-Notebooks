@@ -16,6 +16,11 @@ This code create a RNN to generate a text, char after char, by learning char aft
 I love this _character-level Vanilla RNN_ code because it doesn't use any library except numpy.
 All the NN magic in 112 lines of code, no need to understand any dependency. Everything is there! I'll try to explain in detail every line of it. Disclamer: I still need to use some external links for reference.  
 
+
+## Linear regression with Tensor Flow.
+
+[This notebook](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/tf-linear-regression.ipynb) to start with tensor flow, using a simple example from __Aymeric Damien__
+
 ## Fizz Buzz with Tensor Flow.
 
 [This notebook](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/Fizz%20Buzz.ipynb) to explain the [code](https://github.com/joelgrus/fizz-buzz-tensorflow/blob/master/fizz_buzz.py) from [Fizz Buzz in Tensor Flow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) blog post written by __Joel Grus__  
