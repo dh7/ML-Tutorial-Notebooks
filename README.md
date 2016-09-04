@@ -16,6 +16,8 @@ This code create a RNN to generate a text, char after char, by learning char aft
 I love this _character-level Vanilla RNN_ code because it doesn't use any library except numpy.
 All the NN magic in 112 lines of code, no need to understand any dependency. Everything is there! I'll try to explain in detail every line of it. Disclamer: I still need to use some external links for reference.  
 
+## Minimal character-level TensorFlow RNN model.
+[This notebook](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/tf-char-RNN.ipynb) is a simplified (less accurate, but easier to understand) jupyter version of [this original code](https://github.com/sherjilozair/char-rnn-tensorflow) from __Sherjil Ozair__
 
 ## Linear regression with Tensor Flow.
 
