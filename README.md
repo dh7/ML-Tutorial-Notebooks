@@ -3,9 +3,7 @@ Machine learning tutorial from scratch.
 
 This depos contains some tutorials for real beginners who want to understand machine learning by reading some code.
 
-You may want to read the in the following order:
-
-## Minimal character-level Vanilla RNN model.
+## Minimal character-level Vanilla RNN model, explained in a notbook
 
 RNN stand for "Recurent Neural Network".  
 To understand why RNN are so hot you _must_ read [this](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)!  
@@ -16,8 +14,13 @@ This code create a RNN to generate a text, char after char, by learning char aft
 I love this _character-level Vanilla RNN_ code because it doesn't use any library except numpy.
 All the NN magic in 112 lines of code, no need to understand any dependency. Everything is there! I'll try to explain in detail every line of it. Disclamer: I still need to use some external links for reference.  
 
-## Minimal character-level TensorFlow RNN model.
-[This notebook](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/tf-char-RNN.ipynb) is a simplified (less accurate, but easier to understand) jupyter version of [this original code](https://github.com/sherjilozair/char-rnn-tensorflow) from __Sherjil Ozair__
+## Minimal character-level TensorFlow RNN model
+112 ligne of code to implement a character-level RNN in TensorFlow.  
+[here the code!](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/Minimal%20character-level%20Tensorflow%20RNN%20model.ipynb)
+This is an adaptation of [Minimal character-level Vanilla RNN model](https://gist.github.com/karpathy/d4dee566867f8291f086)_ written by __Andrej Karpathy__ 
+
+## Character-level TensorFlow RNN model.
+If you want to go deeper in TensorFlow for RNN, [This notebook](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/tf-char-RNN.ipynb) try to explain [this original code](https://github.com/sherjilozair/char-rnn-tensorflow) from __Sherjil Ozair__.
 
 ## Linear regression with Tensor Flow.
 
